@@ -1,4 +1,4 @@
-DAHA DETAYLI BİLGİ İÇİN LÜTFEN WORD DOSYASINA BAKINIZ...
+DAHA DETAYLI BİLGİ İÇİN LÜTFEN WORD DOSYASINA BAKINIZ..
 
 ![image](https://github.com/isacolakoglu/Biomedical_Signal_Processing/assets/85408010/36d98d59-94c5-4a01-9caa-a41d2066438b)
 
